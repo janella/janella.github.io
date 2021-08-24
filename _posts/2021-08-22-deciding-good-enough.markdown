@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deciding if something's good enough"
+title:  "Good enough"
 date:   2021-08-22 12:00:00 +1200
 categories: posts
 ---
